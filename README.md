@@ -1,2 +1,2 @@
 # Blog-Cafe-Flexbox
-Deployed to Netlify: https://app.netlify.com/sites/cafe-blog-01/overview
+Deployed to Netlify: https://cafe-blog-01.netlify.app/
